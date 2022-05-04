@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+video{
+    width: 100%;
+}
+#banner{
+
+    background-image: url("../assets/img/banner1.jpg");
+    background-size: cover;
+    background-position: top center;
+    padding: 15% 15% 50% 10%;
+
+}
+
+.menu{
+
+    background-color: transparent;
+}
+
+#h1principal{
+
+    color: yellow;
+
+}
+
+#pprincipal{
+
+    color: rgb(231, 224, 224);
+    
+
+}
+
+#divBattle2042{
+
+    background-size: cover;
+    background-position: top center;
+
+
+}
+
+#divBattle5{
+
+    background-size: cover;
+    background-position: top center;
+
+}
+
+#divBattle1{
+
+    background-size: cover;
+    background-position: top center;
+
+}
